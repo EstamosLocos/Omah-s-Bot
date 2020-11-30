@@ -109,4 +109,4 @@ async def list(ctx):
     await ctx.send('**Lista De Comandos:** omah, barty, apri, dards, quinque, hypixel, residentevil, mambru, ball8, prd')
 
 
-bot.run('NzgzMDUyNTIyNTM2MzA0NjQw.X8VIfQ.dJ7KiXUFm5CVixZcqGTBb8n7n5w')
+bot.run('Token Id')
